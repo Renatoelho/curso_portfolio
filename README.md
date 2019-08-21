@@ -4,7 +4,7 @@ Essa análise vai apresentar o montante anual de vendas por produto.
 
 ### Base em .txt com todas as vendas do período.
 
-![](https://github.com/Renatoelho/curso-portfolio-github/blob/master/004_outros/imagem_base_dados.PNG?raw=true)
+![](https://github.com/Renatoelho/curso_portfolio/blob/master/004_outros/imagem_base_dados.PNG?raw=true)
 
 >**Observação:** Os códigos usados nessa análise estão em ‘001_codigos’ e a base de dados na pasta ‘002_bases_dados’. Os dados de vendas foram convertidos em um código SQL para serem inseridos na tabela criada para a análise usando o comando INSERT, código esse que também está salvo em ‘001_codigo’ no arquivo ‘003_resumo_anual_vendas.sql’.
 
